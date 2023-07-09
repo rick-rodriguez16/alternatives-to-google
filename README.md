@@ -63,6 +63,6 @@ Use ICANN to search for domain names, not a web hosting service (like those bast
 
 ### Note: These are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
 
-#Subreddits
+# Subreddits
 [r/selfhosted](https://www.reddit.com/r/selfhosted/)\
 [r/privacy](https://www.reddit.com/r/privacy/)
