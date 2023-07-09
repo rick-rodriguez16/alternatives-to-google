@@ -4,7 +4,7 @@
 [Privacy Guides](https://www.privacyguides.org/en/)\
 [Privacy Tools](https://www.privacytools.io/)
 
-## Domains (Im gonna miss Google Domains)
+## ...Domains
 
 Use ICANN to search for domain names, not a web hosting service (like those bastards at GoDaddy)!\
 [ICANN Lookup Tool](https://lookup.icann.org/en)
