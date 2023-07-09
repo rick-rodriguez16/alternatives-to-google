@@ -9,7 +9,11 @@
 Use ICANN to search for domain names, not a web hosting service (like those bastards at GoDaddy)!\
 [ICANN Lookup Tool](https://lookup.icann.org/en)
 ### Registrars
-[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)
+[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)\
+[porkbun](https://porkbun.com/)
+
+### Self Hosting
+[Coolify](https://coolify.io/)
 
 ## ...Browsers
 [Firefox](https://www.mozilla.org/en-US/firefox/)\
@@ -58,3 +62,7 @@ Use ICANN to search for domain names, not a web hosting service (like those bast
 
 
 ### Note: These are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
+
+#Subreddits
+[r/selfhosted](https://www.reddit.com/r/selfhosted/)\
+[r/privacy](https://www.reddit.com/r/privacy/)
