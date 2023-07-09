@@ -12,6 +12,9 @@
 [LibreWolf](https://librewolf.net/)
 
 ## Browsers With A Focus On Developers
-[Firefox Developer Edition]()
-[]()
+[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) (Free)
+[LambaTest](https://www.lambdatest.com/)
+[Blisk](https://blisk.io/)
+[Sizzy](https://sizzy.co/)
+[Polypane](https://polypane.app/)
 []()
