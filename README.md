@@ -13,7 +13,8 @@ Use ICANN to search for domain names, not a web hosting service (like those bast
 [porkbun](https://porkbun.com/)
 
 ### Self Hosting
-[Coolify](https://coolify.io/)
+[Coolify](https://coolify.io/)\
+[Vultr](https://www.vultr.com/)
 
 ## ...Browsers
 [Firefox](https://www.mozilla.org/en-US/firefox/)\
