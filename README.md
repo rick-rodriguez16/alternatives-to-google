@@ -19,7 +19,7 @@
 [Polypane](https://polypane.app/)
 
 ## Media 
-(The options here are rough)
+(The options here are rough)\
 [DTube](https://d.tube/)\
 [Vimeo](https://vimeo.com/watch)\
 [PeerTube](https://joinpeertube.org/)\
