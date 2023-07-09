@@ -17,4 +17,18 @@
 [Blisk](https://blisk.io/)\
 [Sizzy](https://sizzy.co/)\
 [Polypane](https://polypane.app/)
+
+## Media
+[DTube](https://d.tube/)\
+[Vimeo](https://vimeo.com/watch)\
+[PeerTube](https://joinpeertube.org/)\
+[MediaGoblin](https://mediagoblin.org/)
+
+## Email
+[Tutanota](https://tutanota.com/)
+[ProtonMail](https://proton.me/mail)
+[Disroot](https://disroot.org/en)
+[Mailfence](https://mailfence.com/)
+[ZohoMail](https://www.zoho.com/mail/?ireft=nhome&src=fa)
+[]()
 []()
