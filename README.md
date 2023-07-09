@@ -61,7 +61,7 @@ Use ICANN to search for domain names, not a web hosting service (like those bast
 [Fathom](https://usefathom.com/)
 
 
-### Note: These are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
+### Note: The above are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
 
 # Subreddits
 [r/selfhosted](https://www.reddit.com/r/selfhosted/)\
