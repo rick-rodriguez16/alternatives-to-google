@@ -44,4 +44,4 @@
 [GeoMapApp](https://www.geomapapp.org/)
 
 
-### Note: These are only recommendations. It is HIGHLY recommended you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
+### Note: These are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
