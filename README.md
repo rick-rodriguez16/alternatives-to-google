@@ -4,6 +4,12 @@
 [Privacy Guides](https://www.privacyguides.org/en/)\
 [Privacy Tools](https://www.privacytools.io/)
 
+## Domains (Im gonna miss Google Domains)
+
+Use ICANNS to search for domains names, not a web hosting service (like those bastards at GoDaddy)!\
+[ICANN Lookup Tool](https://lookup.icann.org/en)\
+[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)
+
 ## ...Browsers
 [Firefox](https://www.mozilla.org/en-US/firefox/)\
 [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) (mobile only)\
