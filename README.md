@@ -25,10 +25,10 @@
 [MediaGoblin](https://mediagoblin.org/)
 
 ## Email
-[Tutanota](https://tutanota.com/)
-[ProtonMail](https://proton.me/mail)
-[Disroot](https://disroot.org/en)
-[Mailfence](https://mailfence.com/)
+[Tutanota](https://tutanota.com/)\
+[ProtonMail](https://proton.me/mail)\
+[Disroot](https://disroot.org/en)\
+[Mailfence](https://mailfence.com/)\
 [ZohoMail](https://www.zoho.com/mail/?ireft=nhome&src=fa)
 []()
 []()
