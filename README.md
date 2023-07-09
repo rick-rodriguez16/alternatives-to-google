@@ -7,7 +7,7 @@
 ## Domains (Im gonna miss Google Domains)
 
 Use ICANN to search for domain names, not a web hosting service (like those bastards at GoDaddy)!\
-[ICANN Lookup Tool](https://lookup.icann.org/en)\
+[ICANN Lookup Tool](https://lookup.icann.org/en)
 ### Registrars
 [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)
 
