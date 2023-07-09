@@ -43,5 +43,11 @@
 [ossimPlanet](https://trac.osgeo.org/ossim/wiki/OssimPlanet)\
 [GeoMapApp](https://www.geomapapp.org/)
 
+## ...Analytics
+[Matomo](https://matomo.org/)\
+[Plausible](https://plausible.io/)\
+[Ackee](https://ackee.electerious.com/)\
+[Fathom](https://usefathom.com/)
+
 
 ### Note: These are only recommendations. It is HIGHLY encouraged that you properly and thoroughly research any product or service you are interested in using as the resources above have not been vetted.
